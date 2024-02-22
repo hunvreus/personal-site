@@ -8,8 +8,8 @@ content:
       fields: [ title ]
     fields:
     
-      - name: lol
-        label: Lol
+      - name: link
+        label: Link
         type: string
         required: true
       - name: layout
