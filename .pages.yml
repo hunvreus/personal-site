@@ -18,16 +18,15 @@ content:
         type: select
         options:
           values: [ design, development, productivity, media ]
-      
+      - name: summary
+        label: Summary
+        type: string
+        required: true
       - name: image-html
         label: Image HTML
         type: string
         required: true
       
-      - name: link
-        label: Link
-        type: string
-        required: true
       - name: title
         label: Title
         type: string
