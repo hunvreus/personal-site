@@ -7,24 +7,12 @@ content:
     view:
       fields: [ title ]
     fields:
-    
       
       - name: title
         label: Title
         type: string
         required: true
-      - name: summary
-        label: Summary
-        type: string
-        required: true
-      - name: link
-        label: Link
-        type: string
-        required: true
-      - name: image-html
-        label: Image HTML
-        type: string
-        required: true
+      
       - name: body
         label: Body
         type: rich-text
