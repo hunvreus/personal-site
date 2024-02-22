@@ -5,7 +5,7 @@ content:
     type: collection
     path: '_tools'
     view:
-      fields: [ title, tags ]
+      fields: [ title ]
     fields:
     
       
