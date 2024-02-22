@@ -19,10 +19,11 @@ content:
         options:
           values: [ design, development, productivity, media ]
       
-      - name: summary
-        label: Summary
+      - name: image-html
+        label: Image HTML
         type: string
         required: true
+      
       - name: link
         label: Link
         type: string
