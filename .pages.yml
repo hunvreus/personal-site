@@ -7,11 +7,8 @@ content:
     view:
       fields: [ title, tags ]
     fields:
-      - name: tags
-        label: Tags
-        type: select
-        options:
-          values: [ design, development, productivity, media ]
+    
+      
       - name: title
         label: Title
         type: string
